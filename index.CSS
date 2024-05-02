@@ -1,0 +1,46 @@
+nav{
+    background-color: rgb(0, 0, 0);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.fp{
+    padding: 2%;
+    color: rgb(255, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+.fp:hover{
+    background-color: rgb(255, 255, 255);
+    padding: 16px;
+}
+.images{
+    float: left;
+    width: 15%;
+    margin-right: 3%;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.pos{
+    background-color: rgb(241, 241, 241);
+    padding: 1%;
+    border-radius: 10px;
+    position:absolute;
+    width: 70%;
+    left: 2%;
+    right: 2%;  
+}
+
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
