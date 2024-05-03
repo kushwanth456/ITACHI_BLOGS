@@ -12,6 +12,10 @@ nav{
 .fp:hover{
     background-color: rgb(255, 255, 255);
     padding: 16px;
+    width:350px;
+    height:350px;
+    border-bottom:1px solid red;
+    padding-bottom: 10px;
 }
 .images{
     float: left;
